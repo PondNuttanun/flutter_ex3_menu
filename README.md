@@ -2,7 +2,7 @@
 ## Name: Nuttanun Lekkhum
 ### ID: 6340011005
 
-<img src="assets/images/ex3.png" style="width: 300px; height; 550px">
+<img src="assets/images/ex3.png" style="width: 550px; ">
 
 
 A new Flutter project.
